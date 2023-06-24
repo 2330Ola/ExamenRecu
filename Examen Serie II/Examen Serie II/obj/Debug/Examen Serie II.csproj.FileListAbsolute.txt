@@ -1,0 +1,8 @@
+C:\Users\olajo\OneDrive\Escritorio\Examen p\Examen Serie II\Examen Serie II\bin\Debug\Examen Serie II.exe.config
+C:\Users\olajo\OneDrive\Escritorio\Examen p\Examen Serie II\Examen Serie II\bin\Debug\Examen Serie II.exe
+C:\Users\olajo\OneDrive\Escritorio\Examen p\Examen Serie II\Examen Serie II\bin\Debug\Examen Serie II.pdb
+C:\Users\olajo\OneDrive\Escritorio\Examen p\Examen Serie II\Examen Serie II\obj\Debug\Examen Serie II.csproj.AssemblyReference.cache
+C:\Users\olajo\OneDrive\Escritorio\Examen p\Examen Serie II\Examen Serie II\obj\Debug\Examen Serie II.csproj.SuggestedBindingRedirects.cache
+C:\Users\olajo\OneDrive\Escritorio\Examen p\Examen Serie II\Examen Serie II\obj\Debug\Examen Serie II.csproj.CoreCompileInputs.cache
+C:\Users\olajo\OneDrive\Escritorio\Examen p\Examen Serie II\Examen Serie II\obj\Debug\Examen Serie II.exe
+C:\Users\olajo\OneDrive\Escritorio\Examen p\Examen Serie II\Examen Serie II\obj\Debug\Examen Serie II.pdb
